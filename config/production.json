@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@social-app.ylwui.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "jwt-secret"
+}
